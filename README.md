@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ivane Nague Nkenfack 👋</h1>
+<h1 align="center">Hi, I'm Ivane Maeva Nague 👋</h1>
 
 <p align="center">
   <b>MSc student in Data Science & Business Informatics @ University of Pisa</b><br>
